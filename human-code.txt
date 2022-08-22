@@ -1,0 +1,22 @@
+Fare la spesa seguendo una lista
+
+1. Fare la lista della spesa: 
+    * Cerco cose che mancano nel frigo
+    * Aggiungo elementi mancanti nel frigo nella lista della spesa: lista_spesa
+
+2. Andare al supermercato
+
+3. Finchè rimangono elementi nella lista_spesa: 
+    * cerca elemento nel supermercato
+    * depenna elemento dalla lista_spesa
+
+4. Vai alla cassa
+
+5. Costo totale - coupon == 0?
+    * No: 
+        - Aggiungi Contanti
+
+6. SE ho contanti rimanenti: 
+    * Compro Snack 
+
+7. Completo Pagamento
